@@ -1,5 +1,5 @@
 # test_bnr32
-# 変更変更
+# 変更
 
 <!DOCTYPE html>
 <html lang="ja">
